@@ -1,6 +1,9 @@
 
-# Zebra-RFID_123RFID-Desktop-do-not-Dicover-Readers_Win11
-123RFID Desktop for Windows 利用時にRFDリーダが表示されない場合の対処方法(Windows 11版 )
+### Zebra-RFID_123RFID-Desktop-do-not-Dicover-Readers_Win11
+## 123RFID Desktop for Windows 利用時にRFDリーダが表示されない場合の対処方法
+## (Windows 11版 )
+
+</br>
 
 123RFID Desktopの「Find Readers」機能でRFDリーダーを認識できないケースがあります。その場合、下記の手順で解消するかお試し下さい。
 
